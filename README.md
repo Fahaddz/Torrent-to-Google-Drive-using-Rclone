@@ -2,7 +2,7 @@
 This is a Google Colab notebook with Libtorrent and Rclone, which can download any torrent to Google Drive. 
 
 <b>Features:</b>
-1. Fast download speed for torrents
+1. Fast download speed for torrents (if it's well seeded)
 2. Ability to mount Google Drive with rClone and move file to any remote
 
 <br><b>Usage:</b>
